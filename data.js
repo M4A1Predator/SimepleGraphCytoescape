@@ -1,0 +1,1 @@
+var data = [{"game": "CS:GO", "publisher": "Valve", "category": "FPS"}, {"game": "DOTA2", "publisher": "Valve", "category": "Moba"}, {"game": "Overwatch", "publisher": "Blizzard", "category": "FPS"}, {"game": "SC2", "publisher": "Blizzard", "category": "RTS"}, {"game": "COD:BO3", "publisher": "Activision", "category": "FPS"}]
